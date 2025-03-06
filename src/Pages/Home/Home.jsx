@@ -101,7 +101,7 @@ function Pages() {
 function Footer() {
   return (
     <footer className="footer">
-      Made with ❤️ by <a href="https://www.instagram.com/nyu_arfx/">Dev</a>
+      Made with ❤️ by <a href="https://www.instagram.com/arfabanyu/">Dev</a>
     </footer>
   );
 }
