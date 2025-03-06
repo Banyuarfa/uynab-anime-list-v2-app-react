@@ -19,11 +19,11 @@ export function DisclaimerModal() {
         anime. Situs ini masih dalam tahap pengembangan dan banyak
         kekurangannya, jadi mohon dimaklumi jika terdapat bug. Jika kamu
         menemukan bug, silahkan laporkan kepada{" "}
-        <a href="https://www.instagram.com/nyu_arfx/">Developer</a> melalui
+        <a href="https://www.instagram.com/arfabanyu/">Developer</a> melalui
         direct message instagram.
         <br />
         Situs ini merupakan versi terbarukan dari{" "}
-        <a href="https://banyuarfa.github.io/UynabAnimeList/">
+        <a href="https://arfabanyu.github.io/uynab-anime-list/">
           UynabAnimeList
         </a>{" "}
         versi lama.
